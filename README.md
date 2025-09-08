@@ -1,4 +1,4 @@
-# this project is a record for my study
+# This project is a record for my study
 
 my development environment is CUDA11.8,VS2019,opnecv4.9,Tensorrt8.6.0.1
 
